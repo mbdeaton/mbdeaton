@@ -1,5 +1,7 @@
 # Brett's GitHub Pages Site
 
+Visible at [https://mbdeaton.github.io](https://mbdeaton.github.io).
+
 Licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 
