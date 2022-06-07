@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400&display=swap');
 
 :root {
   --color-background: #222;
@@ -43,10 +43,12 @@ a {
 }
 
 .project img {
-  width: 80%;
+  border-radius: 8px;
+  width: 95%;
   padding: 4px;
 }
 
 .project p {
   padding: 4px;
+  font-weight: 200;
 }
