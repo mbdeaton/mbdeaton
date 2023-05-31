@@ -43,6 +43,7 @@ a {
   padding: 8px;
   background-color: var(--color-tiles);
   width: 300px;
+  min-height: 200px;
 }
 
 .project img {
