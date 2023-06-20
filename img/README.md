@@ -27,7 +27,14 @@ a splash of color.
 * invert colors Colors > Invert
 * introduce a new layer "Drawing"
 * decrease opacity to 50%
-* use paint brush 2 to introduce some orangy-red #ff2200, size 10, opacity 50%
+* use paint brush (named "Brett's Brush") to introduce some orangy-red #ff2200
+  - radius 1.5
+  - spikes 2
+  - hardness 0.75
+  - aspect ratio 1.0
+  - angle 0
+  - spacing 1.0
+  - opacity 100.0 (but the whole layer has opacity 0.5)
 * export to png and save as `IMAGE-final.png`, unchecking all export options to
   reduce file size
 
